@@ -43,7 +43,7 @@ http://localhost:3001/api/auth/google/send-reply
 1. Clone the project
 
 ```
-git clone https://github.com/Parth0921/Smart-Mail-Parser.git
+git clone https://github.com/gargmanya1310/Smart-Mail-Parser.git
 ```
 
 2. Create .env file with following fields
